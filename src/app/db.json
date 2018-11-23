@@ -1,4 +1,7 @@
-[
+{
+
+"schema": [
+  
     {
       "type": "input",
       "label": "Username",
@@ -83,3 +86,4 @@
       "label": "Save"
     }
   ]
+}
